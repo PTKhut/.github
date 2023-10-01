@@ -20,6 +20,7 @@ Feel free to explore the repositories, provide feedback, or even collaborate if 
 
 If you're interested in getting involved with PTKhut, here are a few ways you can join the journey:
 
+- **Join our Discord Community**: [![Discord](https://img.shields.io/discord/1151375434961924190?color=7389D8&label=Discord&logo=discord&logoColor=ffffff&labelColor=6A7EC2)](https://discord.gg/uJuJqWK2vT) to engage in real-time discussions and connect with fellow coding enthusiasts.
 - **Explore the Projects**: Dive into the repositories and explore the projects I've crafted. Feel free to clone, experiment, or contribute if you find something intriguing.
 - **Engage in Discussions**: Join the conversations, share your insights, and participate in discussions related to the projects. Your thoughts and feedback are always appreciated.
 - **Spread the Word**: If you find value or inspiration in any of the projects, consider sharing them with others who may benefit or find them interesting.
